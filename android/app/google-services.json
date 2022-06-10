@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "997201066351",
+    "project_id": "oiitaxi",
+    "storage_bucket": "oiitaxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997201066351:android:565fe4766b362b4802509a",
+        "android_client_info": {
+          "package_name": "com.example.oiitaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997201066351-3prgdsqsq7drhe1t3grt6n35138qv7ko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oiitaxi",
+            "certificate_hash": "7b12d21347bd0e8d177fffa7eea16f13fe9a913a"
+          }
+        },
+        {
+          "client_id": "997201066351-dvm0l6k7mrpkgq67t2u9iab402j2mrlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDREgExOxZtBqsAW2LsRhQxZrkCc8RHuTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997201066351-dvm0l6k7mrpkgq67t2u9iab402j2mrlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
